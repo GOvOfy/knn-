@@ -1,2 +1,2 @@
 # knn-
-knn of using  airbnb data  to predict price
+using  airbnb data  to predict price through KNN
